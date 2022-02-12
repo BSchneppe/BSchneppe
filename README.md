@@ -3,7 +3,7 @@
 </div>  
 <br/>    
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api" align="center" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" align="center" />
 </div>  
  
   
