@@ -3,7 +3,7 @@
 </div>  
 <br/>    
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api" align="center" style="width: 100%" />
+<img src="https://readme-jokes.vercel.app/api" align="center" />
 </div>  
  
   
@@ -12,11 +12,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -33,7 +29,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
