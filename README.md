@@ -1,9 +1,11 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-![Jokes Card](https://readme-jokes.vercel.app/api)  
+<br/>    
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api" align="center" style="width: 100%" />
+</div>  
+ 
   
 
 <br/>  
@@ -61,5 +63,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
